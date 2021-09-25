@@ -5,6 +5,12 @@ from io import BytesIO, IOBase
 import math
 from collections import Counter
 
+# # For getting input from input.txt file
+# sys.stdin = open("weak_typing_chapter_2_input.txt", "r")
+
+# # Printing the Output to output.txt file
+# sys.stdout = open("weak_typing_chapter_2_output.txt", "w")
+
 
 def func(t, array):
     pass
